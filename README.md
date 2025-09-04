@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Maria Patani!
+# 👋 Hi there, I'm Maria S Patani!
 
 I'm a passionate and curious developer who loves crafting sleek, functional, and scalable web applications. I enjoy exploring new technologies, building projects, and solving real-world problems through code. Always learning. Always creating. 💡
 
@@ -37,6 +37,8 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 </details>
 
 ---
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📌 Fun Fact:
 > I love turning coffee into code and ideas into interactive experiences. Let's build something awesome together! ☕💻
