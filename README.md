@@ -41,7 +41,7 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ![Profile Views](https://komarev.com/ghpvc/?username=mariaspatani&color=ff69b4&label=Profile+Views&style=flat-square)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=onedark&no-frame=true&exclude=Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📌 Fun Fact:
 > I love turning coffee into code and ideas into interactive experiences. Let's build something awesome together! ☕💻
