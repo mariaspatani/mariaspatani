@@ -22,13 +22,14 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
 
 ---
-
 <!-- 🌊 Top Animated Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="wave banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mariaspatani&color=blue&style=for-the-badge)
 
 ## 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
@@ -38,11 +39,11 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ## 📊 GitHub Stats  
 | **Stats** | **Streak** | **Languages** |
 |-----------|------------|---------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&theme=radical&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=mariaspatani&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical) |
+| ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariaspatani&show_icons=true&theme=radical&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=mariaspatani&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical) |
 
 ---
 
-## 🌱 About Me  
+## 🌱 About Me 
 I love turning coffee ☕ into code 💻 and ideas into interactive experiences!  
 Let's build something awesome together! 🚀
 
