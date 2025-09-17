@@ -28,11 +28,11 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
   <br/>
 
-  ![](https://github-readme-stats.vercel.app/api?username=mariaspatani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&theme=radical&hide_border=false&count_private=true)
+  
+  ![](https://streak-stats.demolab.com?user=mariaspatani&theme=radical&hide_border=false)
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=mariaspatani&theme=dark&hide_border=false)
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical&hide_border=false)
 
 </details>
 
