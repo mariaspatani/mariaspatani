@@ -23,27 +23,32 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
 ---
 
-<details>
-  <summary>📊 GitHub Stats</summary>
+<!-- 🌊 Top Animated Wave Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="wave banner"/>
+</p>
 
-  <br/>
+<div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&theme=radical&hide_border=false&count_private=true)
-  
-  ![](https://streak-stats.demolab.com?user=mariaspatani&theme=radical&hide_border=false)
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical&hide_border=false)
-
-</details>
+## 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=mariaspatani&color=ff69b4&label=Profile+Views&style=flat-square)
+## 📊 GitHub Stats  
+| **Stats** | **Streak** | **Languages** |
+|-----------|------------|---------------|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&theme=radical&hide_border=false&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=mariaspatani&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical&hide_border=false) |
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=3)
+---
 
+## Fun Fact:
+I love turning coffee ☕ into code 💻 and ideas into interactive experiences!  
+Let's build something awesome together! 🚀
 
-### 📌 Fun Fact:
-> I love turning coffee into code and ideas into interactive experiences. Let's build something awesome together! ☕💻
+</div>
 
+<!-- 🌊 Bottom Animated Wave Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&section=footer"/>
+</p>
