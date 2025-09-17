@@ -38,11 +38,11 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ## 📊 GitHub Stats  
 | **Stats** | **Streak** | **Languages** |
 |-----------|------------|---------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&theme=radical&hide_border=false&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=mariaspatani&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical&hide_border=false) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&theme=radical&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=mariaspatani&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical) |
 
 ---
 
-## Fun Fact:
+## 🌱 About Me  
 I love turning coffee ☕ into code 💻 and ideas into interactive experiences!  
 Let's build something awesome together! 🚀
 
