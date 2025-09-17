@@ -42,9 +42,7 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
 ## 🏆 GitHub Trophies
 
- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=matrix&title=MultiLanguage,Commit,PullRequest,Followers,Issues,Repositories,Reviews,Organizations,Stars&no-bg=true&no-frame=true&row=2&column=5&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
 
 
 ### 📌 Fun Fact:
