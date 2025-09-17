@@ -40,8 +40,7 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mariaspatani&color=ff69b4&label=Profile+Views&style=flat-square)
 
-## 🏆 GitHub Trophie
-<p align="center">
+## 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=mariaspatani
 &theme=matrix
 &title=MultiLanguage,Commit,PullRequest,Followers,Issues,Repositories,Reviews,Organizations,Stars
@@ -51,7 +50,7 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 &column=5
 &margin-w=15
 &margin-h=15" alt="GitHub Trophies"/>
-</p>
+
 
 
 ### 📌 Fun Fact:
