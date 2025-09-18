@@ -24,7 +24,7 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ---
 <!-- 🌊 Top Animated Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <div align="center">
