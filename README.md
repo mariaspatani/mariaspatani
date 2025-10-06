@@ -46,6 +46,16 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1200&center=true&vCenter=true&multiline=true&repeat=true&width=650&color=00FFFF&lines=💻+if+(brain+!%3D+empty)+%7B;printf(%22keep+Coding+👩‍💻%22);%7D;else+%7B;printf(%22order+coffee+☕%22);%7D;💡+Keep+Learning+%26+Brewing+Ideas+%E2%98%95;🚀+Code.+Create.+Caffeinate.+Repeat." alt="Glowing Animated Code" style="filter: drop-shadow(0 0 12px cyan); animation: glow 1.5s ease-in-out infinite alternate;" />
+</p>
+
+<style>
+@keyframes glow {
+  from { filter: drop-shadow(0 0 8px #00ffff); }
+  to { filter: drop-shadow(0 0 20px #00ffff); }
+}
+</style>
 
 ## 
 I love turning coffee ☕ into code 💻 and ideas into interactive experiences!  
