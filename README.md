@@ -32,7 +32,8 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ![Profile Views](https://komarev.com/ghpvc/?username=mariaspatani&color=blue&style=for-the-badge)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical)
+
 
 
 ---
