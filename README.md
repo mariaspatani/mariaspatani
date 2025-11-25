@@ -39,17 +39,16 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage,issues&theme=radical)
-
----
-
-## 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariaspatani&theme=radical)
+
+---
+## 🚀 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical)
 
 ---
 
