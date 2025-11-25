@@ -53,8 +53,8 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
 ---
 
-## 🕸️ Contribution Graph
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mariaspatani&theme=radical)
+<!--## 🕸️ Contribution Graph
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mariaspatani&theme=radical)--->
 
 ## 
 I love turning coffee ☕ into code 💻 and ideas into interactive experiences!  
