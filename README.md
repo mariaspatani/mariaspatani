@@ -38,18 +38,23 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=mariaspatani&theme=radical&hide_border=false&background=00000000&border_radius=10)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mariaspatani&theme=radical&hide_border=false) 
-
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage,issues&theme=radical)
 
 ---
 
+## 🚀 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariaspatani&theme=radical)
+
+---
+
+## 🕸️ Contribution Graph
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mariaspatani&theme=radical)
 
 ## 
 I love turning coffee ☕ into code 💻 and ideas into interactive experiences!  
