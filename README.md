@@ -34,17 +34,11 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical)
 
-
-
----
 ## 📊GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800)
 
-
----
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariaspatani&theme=radical)
 
----
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical)
 
 ---
