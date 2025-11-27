@@ -41,7 +41,6 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspatani&layout=compact&theme=radical)
 
----
 
 <!--## 🕸️ Contribution Graph
 ![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mariaspatani&theme=radical)--->
