@@ -1,0 +1,52 @@
+# .github/workflows/update_readme_stats.yml
+
+name: Update GitHub Stats Cards
+
+on:
+  # Schedule to run automatically every 12 hours
+  schedule:
+    - cron: '0 */12 * * *'
+  # Also runs on every push to the main branch
+  push:
+    branches:
+      - main 
+      - master # Adjust this if your primary branch is named differently
+
+jobs:
+  update_stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Action to generate and update GitHub Readme Stats/Metrics
+      - name: Generate GitHub Stats Cards
+        uses: lowlighter/metrics@latest
+        with:
+          # IMPORTANT: Uses the 'PAT' Secret you created
+          token: ${{ secrets.PAT }} 
+          
+          # Configuration settings for the metrics card
+          user: mariaspatani # Your GitHub Username
+          template: classic
+          config_timezone: Asia/Kolkata
+          
+          # Plugins to enable specific stats (Trophies, Languages, etc.)
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_from: 7 # Habits from the last 7 days
+          plugin_followup: yes
+          plugin_stargazers: yes
+          # Note: If you want Trophies, ensure the 'trophies' plugin is enabled
+          # e.g., plugin_trophies: yes 
+
+      # Action to commit the generated changes back to the repository
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # IMPORTANT: Uses the 'PAT' Secret for commit permissions
+          token: ${{ secrets.PAT }}
+          commit_message: "docs: Automated update of GitHub stats and metrics"
