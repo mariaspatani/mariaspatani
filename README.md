@@ -8,7 +8,6 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinnu.patani0808@gmail.com)
 
 
-
 <!--## 💻 Tech Stack
 
 ### 🌐 Frontend
@@ -21,7 +20,7 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)-->
 
 
----
+
 <!-- 🌊 Top Animated Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&animation=fadeIn&fontAlignY=40"/>
