@@ -7,7 +7,7 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-s-patani-79a6a0327)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinnu.patani0808@gmail.com)
 
----
+
 
 <!--## 💻 Tech Stack
 
