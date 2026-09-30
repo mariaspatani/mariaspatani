@@ -8,17 +8,6 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinnu.patani0808@gmail.com)
 
 
-<!--## 💻 Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)--->
-
-<!--### 🛠️ Tools, Languages & Design
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)-->
-
 
 
 <!-- 🌊 Top Animated Wave Banner -->
@@ -31,7 +20,7 @@ I'm a passionate and curious developer who loves crafting sleek, functional, and
 ![Profile Views](https://komarev.com/ghpvc/?username=mariaspatani&color=blue&style=for-the-badge)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariaspatani&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊GitHub Stats
 <!---![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaspatani&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800)-->
